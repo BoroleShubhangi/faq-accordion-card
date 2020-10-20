@@ -190,11 +190,17 @@ body {
       width: 230px;
       height: 180px;
   }
-
   .faq_content {
-    align-items: center;
-    width: auto;
-    margin: 12% 5% 0 5%;
+    width: 80%;
+    margin: 60px 35px 0 16px;
+  }
+
+  .illustartion {
+    display: none;
+  }
+
+  .faq_content h1 {
+    text-align: center;
   }
 
 }
